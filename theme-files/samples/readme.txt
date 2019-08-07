@@ -1,0 +1,2 @@
+1. you use data/ SAMPLE.xml file to import data via using import tool of wordpress
+2. or you upload tranning folder to THEME/inc/import then click to Appeareace/ WPOImport to use one click to install demo. or you get get direct from our server in this menu
