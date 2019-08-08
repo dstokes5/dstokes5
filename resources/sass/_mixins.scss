@@ -1,0 +1,29 @@
+//@include section-title;
+
+@mixin section-title{
+  font-size: 1.500rem;
+  font-family: $raleway;
+  color: rgb(29, 25, 59);
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+@mixin section-subtitle {
+  font-family: $raleway;
+  font-weight: bold;
+  font-size: 3.125rem;
+  text-transform: uppercase;
+  line-height: 1.4;
+  background: rgb(136, 0, 101);
+  background: linear-gradient(90deg, rgba(136, 0, 101, 1) 0%, rgba(215, 0, 33, 1) 100%);
+  color: transparent;
+  -webkit-background-clip: text;
+  display: inline-block;
+}
+
+@mixin section-description {
+  font-family: $open-sans;
+  color: rgb(63, 60, 87);
+  line-height: 1.556;
+  font-size: 1.125rem;
+}
