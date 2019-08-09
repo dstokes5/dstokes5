@@ -4166,13 +4166,13 @@ input[type=button].btn-block {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: #0000b5;
 }
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.5);
+  color: #ffffff
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: rgba(0, 0, 0, 0.7);
+  color: #0000b5;
 }
 .navbar-light .navbar-nav .nav-link.disabled {
   color: rgba(0, 0, 0, 0.3);
@@ -4181,10 +4181,10 @@ input[type=button].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: rgba(0, 0, 0, 0.9);
+  color: #0000b5;
 }
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.5);
+  color: #0000b5;
   border-color: rgba(0, 0, 0, 0.1);
 }
 .navbar-light .navbar-toggler-icon {
@@ -10059,7 +10059,7 @@ html {
   height: 100vh;
   z-index: 99999;
   overflow: visible;
-  background: #ffffff url(../img/preloder.gif) no-repeat center center;
+  background: #ffffff url(../img/ds5Logo.png) no-repeat center center;
   background-size: 25rem 25rem;
 }
 
@@ -10168,18 +10168,18 @@ html {
   top: 0;
   width: 100%;
   z-index: 99;
-  background-color: transparent;
+  background-color: #0000b5;
   transition: 0.5s;
 }
 .reunir-navbar .logo-section .logo-title {
   font-family: "Raleway";
   font-weight: bold;
   margin-right: 0.313rem;
-  color: #ffffff;
+  color: #0000b5;
 }
 .reunir-navbar .logo-section .logo-title img {
   margin-right: 1.563rem;
-  width: 3.125rem;
+  width: 8.125rem;
 }
 .reunir-navbar .nav-main .navbar-nav .nav-item {
   font-family: "Open Sans";
@@ -10189,7 +10189,7 @@ html {
 }
 .reunir-navbar .nav-main .navbar-nav .nav-item .nav-link {
   text-decoration: none;
-  color: #fffafa;
+  color: #ffffff;
   font-weight: 600;
 }
 .reunir-navbar .nav-main .navbar-nav .nav-item .nav-link:hover {
@@ -10215,7 +10215,7 @@ html {
   position: fixed;
   width: 100%;
   z-index: 9999;
-  background: #1c1646;
+  background: #0000b5;
 }
 
 /*==========================================
@@ -11619,12 +11619,12 @@ html {
 /*==========================================
    transaction section
 ===========================================*/
-.transaction-section {
+.schedule-section {
   margin-top: 15.438rem;
   margin-bottom: 8.25rem;
   position: relative;
 }
-.transaction-section .right-img .right-ellipse1 {
+.schedule-section .right-img .right-ellipse1 {
   position: absolute;
   top: -7.188rem;
   right: -14.375rem;
@@ -11632,7 +11632,7 @@ html {
   -webkit-animation: zoominoutsinglefeatured 6s infinite;
           animation: zoominoutsinglefeatured 6s infinite;
 }
-.transaction-section .right-img .right-shape1 {
+.schedule-section .right-img .right-shape1 {
   position: absolute;
   top: 4.375rem;
   right: -27.125rem;
@@ -11640,7 +11640,7 @@ html {
   -webkit-animation: shapeani1 4s linear infinite;
           animation: shapeani1 4s linear infinite;
 }
-.transaction-section .right-img .right-shape2 {
+.schedule-section .right-img .right-shape2 {
   position: absolute;
   top: 4.375rem;
   right: -9.063rem;
@@ -11648,7 +11648,7 @@ html {
   -webkit-animation: shapeani1 2s linear infinite;
           animation: shapeani1 2s linear infinite;
 }
-.transaction-section .right-img .right-ellipse2 {
+.schedule-section .right-img .right-ellipse2 {
   position: absolute;
   top: 5.625rem;
   right: -12.5rem;
@@ -11656,49 +11656,49 @@ html {
   -webkit-animation: zoominoutsinglefeatured 5s infinite;
           animation: zoominoutsinglefeatured 5s infinite;
 }
-.transaction-section .left-img .left-ellipse1 {
+.schedule-section .left-img .left-ellipse1 {
   position: absolute;
   top: 43.625rem;
   left: -12.25rem;
   max-width: 50%;
 }
-.transaction-section .left-img .left-ellipse2 {
+.schedule-section .left-img .left-ellipse2 {
   position: absolute;
   top: 35rem;
   left: -1.125rem;
   max-width: 50%;
 }
-.transaction-section .left-img .left-ellipse3 {
+.schedule-section .left-img .left-ellipse3 {
   position: absolute;
   top: 44.625rem;
   left: 0;
   max-width: 50%;
 }
-.transaction-section .left-img .left-shape1 {
+.schedule-section .left-img .left-shape1 {
   position: absolute;
   top: 23.125rem;
   left: -12.5rem;
   max-width: 45%;
 }
-.transaction-section .left-img .left-shape2 {
+.schedule-section .left-img .left-shape2 {
   position: absolute;
   top: 24.75rem;
   left: -3.75rem;
   max-width: 42%;
 }
-.transaction-section .left-img .left-shape3 {
+.schedule-section .left-img .left-shape3 {
   position: absolute;
   top: 17.813rem;
   left: -14.375rem;
   max-width: 45%;
 }
-.transaction-section .left-img .left-shape4 {
+.schedule-section .left-img .left-shape4 {
   position: absolute;
   top: 26.813rem;
   left: -7.188rem;
   max-width: 45%;
 }
-.transaction-section .transaction-text .transaction-title {
+.schedule-section .transaction-text .transaction-title {
   font-size: 1.5rem;
   font-family: "Raleway";
   color: #1d193b;
@@ -11706,7 +11706,7 @@ html {
   line-height: 1.167;
   margin-bottom: 0.438rem;
 }
-.transaction-section .transaction-text .transaction-subtitle {
+.schedule-section .transaction-text .transaction-subtitle {
   font-family: "Raleway";
   font-weight: bold;
   font-size: 3.125rem;
@@ -11719,20 +11719,20 @@ html {
   display: inline-block;
   margin-bottom: 0.25rem;
 }
-.transaction-section .transaction-text .transaction-title-describe {
+.schedule-section .transaction-text .transaction-title-describe {
   font-family: "Open Sans";
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
   margin-bottom: 3.25rem;
 }
-.transaction-section .transaction-bnt-outline {
+.schedule-section .transaction-bnt-outline {
   border: 0.063rem solid #ff5500;
   border-radius: 3.125rem;
   padding: 0.75rem 0;
   margin-bottom: 2.813rem !important;
 }
-.transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+.schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
   font-family: "Open Sans";
   font-weight: 600;
   font-size: 0.875rem;
@@ -11745,21 +11745,21 @@ html {
   margin: 0 0.625rem;
   border-radius: 1.875rem;
 }
-.transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
+.schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
   font-size: 2.813rem;
   margin-right: 0.938rem;
 }
-.transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link.active {
+.schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link.active {
   background-image: linear-gradient(169deg, #e40015 0%, #750075 100%);
   background-image: -ms-linear-gradient(169deg, #e40015 0%, #750075 100%);
   box-shadow: 0 0.625rem 0.938rem 0 rgba(59, 55, 188, 0.5);
 }
-.transaction-section .transaction-table {
+.schedule-section .transaction-table {
   background-color: white;
   box-shadow: 0 0.313rem 0.938rem 0 rgba(59, 38, 219, 0.5);
   margin-bottom: 4.25rem;
 }
-.transaction-section .transaction-table thead tr {
+.schedule-section .transaction-table thead tr {
   border-top: 0.063rem solid #ccc8c8;
   border-bottom: 0.063rem solid #ccc8c8;
   font-family: "Open Sans";
@@ -11769,57 +11769,57 @@ html {
   color: #323639;
   background: #eef4fb;
 }
-.transaction-section .transaction-table thead tr th {
+.schedule-section .transaction-table thead tr th {
   vertical-align: middle;
   padding: 1.063rem 2.813rem;
 }
-.transaction-section .transaction-table thead tr :first-child {
+.schedule-section .transaction-table thead tr :first-child {
   font-size: 1rem;
   padding: 0 2.5rem;
 }
-.transaction-section .transaction-table tbody {
+.schedule-section .transaction-table tbody {
   font-family: "Open Sans";
   font-weight: 600;
   font-size: 1.125rem;
   color: #323639;
 }
-.transaction-section .transaction-table tbody tr {
+.schedule-section .transaction-table tbody tr {
   border-top: 0.063rem solid #dcdada;
   border-bottom: 0.063rem solid #dcdada;
 }
-.transaction-section .transaction-table tbody tr th {
+.schedule-section .transaction-table tbody tr th {
   font-size: 1rem;
   padding: 0 2.5rem;
   border: none;
 }
-.transaction-section .transaction-table tbody tr th .user-img {
+.schedule-section .transaction-table tbody tr th .user-img {
   vertical-align: middle;
   padding: 1.188rem 0;
 }
-.transaction-section .transaction-table tbody tr th .user-img img {
+.schedule-section .transaction-table tbody tr th .user-img img {
   border-radius: 50%;
   width: 3.75rem;
   height: 3.75rem;
   border: 0.125rem solid #d10025;
   margin-right: 0.938rem;
 }
-.transaction-section .transaction-table tbody tr th span {
+.schedule-section .transaction-table tbody tr th span {
   font-size: 1rem;
   vertical-align: middle;
   padding: 2.25rem 0;
 }
-.transaction-section .transaction-table tbody tr td {
+.schedule-section .transaction-table tbody tr td {
   vertical-align: middle;
   padding: 1.063rem 2.875rem;
 }
-.transaction-section .transaction-table tbody tr td i {
+.schedule-section .transaction-table tbody tr td i {
   font-size: 1.875rem;
   color: #ff5500;
 }
-.transaction-section .transaction-table tbody tr:hover {
+.schedule-section .transaction-table tbody tr:hover {
   background: #efe9e9;
 }
-.transaction-section .part-cart a {
+.schedule-section .part-cart a {
   font-family: "Open Sans";
   text-transform: uppercase;
   font-size: 0.875rem;
@@ -11833,7 +11833,7 @@ html {
   border: 0.125rem solid #ff5500;
   transition: all 0.3s ease-in;
 }
-.transaction-section .part-cart a:hover {
+.schedule-section .part-cart a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
   background-color: #ff5500;
   border: 0.125rem solid transparent;
@@ -12731,10 +12731,10 @@ html {
     font-size: 2.5rem;
   }
 
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
     padding: 0.5rem 0.875rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
     font-size: 2rem;
   }
 
@@ -12782,10 +12782,10 @@ html {
   }
 
   .reunir-navbar {
-    background: #1c1646;
+    background: #0000b5;
   }
   .reunir-navbar i {
-    color: #ff5500;
+    color: #ffffff;
   }
   .reunir-navbar .navbar-toggler {
     margin-right: 11.25rem;
@@ -12945,10 +12945,10 @@ html {
     font-size: 0.875rem;
   }
 
-  .transaction-section {
+  .schedule-section {
     margin-top: 0;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
     padding: 0.313rem 1.438rem !important;
   }
 
@@ -13175,17 +13175,17 @@ html {
     margin: 2.375rem 0 !important;
   }
 
-  .transaction-section {
+  .schedule-section {
     margin-top: 0;
   }
-  .transaction-section .transaction-text .transaction-subtitle {
+  .schedule-section .transaction-text .transaction-subtitle {
     font-size: 2.125rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
     font-size: 0.75rem;
     padding: 0.313rem 0.938rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
     font-size: 2rem;
   }
 
@@ -13427,17 +13427,17 @@ html {
     margin: 2.375rem 0 !important;
   }
 
-  .transaction-section {
+  .schedule-section {
     margin-top: 0;
   }
-  .transaction-section .transaction-text .transaction-subtitle {
+  .schedule-section .transaction-text .transaction-subtitle {
     font-size: 2.125rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
     font-size: 0.688rem;
     padding: 0.313rem 0.5rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
     font-size: 2.5rem;
     margin-right: 0.5rem;
   }
@@ -13863,24 +13863,24 @@ html {
     font-size: 0.875rem;
   }
 
-  .transaction-section {
+  .schedule-section {
     margin-top: 0;
   }
-  .transaction-section .transaction-text .transaction-title {
+  .schedule-section .transaction-text .transaction-title {
     font-size: 1.25rem;
   }
-  .transaction-section .transaction-text .transaction-subtitle {
+  .schedule-section .transaction-text .transaction-subtitle {
     font-size: 2.25rem;
   }
-  .transaction-section .transaction-text .transaction-title-describe {
+  .schedule-section .transaction-text .transaction-title-describe {
     font-size: 1rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
     padding: 0.313rem 1.25rem;
     margin: 0.375rem 2.5rem;
     font-size: 0.75rem;
   }
-  .transaction-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
+  .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link i {
     font-size: 2rem;
     margin-right: 0.5rem;
   }
