@@ -12403,6 +12403,20 @@ Image Slider Section
   font-size: 1.125rem;
   margin-bottom: 3.438rem;
 }
+.contact-us-section .contact-us-button a {
+   font-family: "Viga", sans-serif;
+   text-transform: uppercase;
+   font-size: 0.875rem;
+   color: #ffffff;
+   text-decoration: none;
+   padding: 0.625rem 1.25rem;
+   border-radius: 1.563rem;
+   background-image: linear-gradient(4deg, #0000b5 0%, #2B2D33 100%);
+   background-image: -ms-linear-gradient(90deg, #3b26db 1%, #7b19cb 100%);
+   box-shadow: 0 0.313rem 0.313rem 0 rgba(59, 38, 219, 0.4);
+   border: 0.125rem solid #fffce8;
+   transition: all 0.3s ease-in;
+}
 .contact-us-section .contact-img img {
   width: 90%;
 }
