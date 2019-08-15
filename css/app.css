@@ -10088,7 +10088,7 @@ html {
 }
 .header-section .header-top .header-left .header-left-list .header-left-text {
   color: #e4e2e2;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
 }
 .header-section .header-top .header-left .header-left-list .header-left-text .header-left-icon i {
   font-size: 0.875rem;
@@ -10116,7 +10116,7 @@ html {
 }
 .header-section .header-top .header-right .header-right-list .header-dropdown select {
   position: relative;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 400;
   background: transparent;
   color: #FFFFFF;
@@ -10149,7 +10149,7 @@ html {
 }
 .header-section .header-top .header-right .header-right-list .header-right-text {
   color: #e4e2e2;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 0.875rem;
 }
 .header-section .header-top .header-right .header-right-list .header-right-text .carticon i {
@@ -10168,11 +10168,11 @@ html {
   top: 0;
   width: 100%;
   z-index: 99;
-  background-color: #0000b5;
+  background-color: #212529;
   transition: 0.5s;
 }
 .reunir-navbar .logo-section .logo-title {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   margin-right: 0.313rem;
   color: #0000b5;
@@ -10180,9 +10180,10 @@ html {
 .reunir-navbar .logo-section .logo-title img {
   margin-right: 1.563rem;
   width: 8.125rem;
+  height: 6rem;
 }
 .reunir-navbar .nav-main .navbar-nav .nav-item {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   list-style: none;
   float: left;
   margin-right: 1.563rem;
@@ -10284,7 +10285,7 @@ html {
 }
 .banner-section .overlay .total-slide .banner-text h1 {
   text-transform: uppercase;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-size: 5.625rem;
   margin-bottom: 1.063rem;
   color: #ffffff;
@@ -10298,12 +10299,12 @@ html {
   font-weight: lighter;
 }
 .banner-section .overlay .total-slide .banner-text .font-bold {
-  color: #ff5500;
+  color: #fffce8;
   font-weight: bold;
 }
 .banner-section .overlay .total-slide .banner-bottom-text {
   color: #e4e2e2;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1.75rem;
 }
 .banner-section .overlay .total-slide .get-start {
@@ -10344,7 +10345,7 @@ html {
   z-index: 1;
 }
 .banner-section.slick-initialized .slick-prev:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
   border: none;
   opacity: 1;
@@ -10370,7 +10371,7 @@ html {
   outline: none;
 }
 .banner-section.slick-initialized .slick-next:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
   border: none;
   opacity: 1;
@@ -10418,16 +10419,16 @@ html {
   margin-top: -0.625rem;
 }
 .statics-section .single-statics .text-box .counter {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: bold;
   font-size: 2.5rem;
   color: #ffffff;
   margin-bottom: 0.938rem;
 }
 .statics-section .single-statics .text-box h4 {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 500;
-  color: #e15218;
+  color: #0000b5;
   font-size: 1.125rem;
   line-height: 1;
   text-transform: uppercase;
@@ -10450,7 +10451,7 @@ html {
   color: #ffffff;
 }
 .calculate-aria .calculate-left .form-group .amount {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1rem;
   color: #ffffff;
   text-transform: uppercase;
@@ -10486,7 +10487,7 @@ html {
 }
 .calculate-aria .calculate-left .form-group .input-dropdown .form-dropdown .form-btn-dropdown {
   position: relative;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 400;
   background-image: -webkit-linear-gradient(169deg, #e40015 0%, #750075 100%);
   color: #cdcbd9;
@@ -10517,17 +10518,17 @@ html {
 }
 .calculate-aria .calculate-right .text-box .counter {
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   font-weight: 600;
   font-size: 2.5rem;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
 }
 .calculate-aria .calculate-right .text-box h4 {
   color: #ffffff;
   font-size: 1rem;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: lighter;
   text-transform: uppercase;
 }
@@ -10544,27 +10545,27 @@ html {
 }
 .about-section .about-left .about-text .about-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.875rem;
 }
 .about-section .about-left .about-text .about-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.938rem;
 }
 .about-section .about-left .about-text .about-details {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 400;
   line-height: 1.167;
   color: #1d193b;
@@ -10572,10 +10573,10 @@ html {
   margin-bottom: 1.5rem;
 }
 .about-section .about-left .about-text .about-details span {
-  color: #e15218;
+  color: #0000b5;
 }
 .about-section .about-left .about-text .about-description {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -10602,7 +10603,7 @@ html {
   text-align: center;
 }
 .about-section .about-left .about-box .single-about-box .icon-box-outer .icon-box i {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 .about-section .about-left .about-box .single-about-box .icon-box-outer .icon-box img {
   width: 60%;
@@ -10650,7 +10651,7 @@ html {
   box-shadow: 0 0.313rem 0.938rem 0 rgba(246, 59, 125, 0.4);
 }
 .about-section .about-left .about-box h3 {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   color: #323639;
   font-size: 1.25rem;
@@ -10666,7 +10667,7 @@ html {
   padding: 0.625rem 0;
   font-size: 0;
   text-decoration: none;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: bold;
   color: #ff5500;
   position: relative;
@@ -10699,13 +10700,71 @@ html {
 }
 .about-section .about-right .video-box .icon-box .video-play-btn i {
   border-radius: 50%;
-  background-color: #e15218;
+  background-color: #0000b5;
   opacity: 0.8;
   padding: 1.875rem;
   font-size: 3.75rem;
   color: #ffff;
   display: grid;
 }
+
+/*********************************
+Image Slider Section
+*********************************/
+.carousel {
+  width: 100%;
+	padding-bottom: 5%;
+}
+
+.slide-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.slide-box img {
+  display: flex;
+  justify-content: space-between;
+	width: 70%;
+	height: 80%;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 40%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 33.3333%;
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+}
+
+@media (min-width: 992px)
+{
+  .slide-box img {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: .5rem;
+}
+
+@media screen and (max-width: 800px) {
+    .next {
+        display: none !important;
+    }
+}
+
 
 /*==========================================
     choose section
@@ -10722,27 +10781,27 @@ html {
 }
 .choose-section .overlay .choose-text .choose-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.813rem;
 }
 .choose-section .overlay .choose-text .choose-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.313rem;
 }
 .choose-section .overlay .choose-text .choose-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -10761,7 +10820,7 @@ html {
   margin-bottom: 2.813rem;
 }
 .choose-section .overlay .single-item .text-box .single-item-title {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   font-size: 1.5rem;
   color: #484748;
@@ -10770,7 +10829,7 @@ html {
   margin-bottom: 1.313rem;
 }
 .choose-section .overlay .single-item .text-box .single-item-description {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1.125rem;
   color: #484748;
   line-height: 1.556;
@@ -10792,7 +10851,7 @@ html {
   outline: none;
 }
 .choose-section .slick-initialized .slick-prev:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
 }
 .choose-section .slick-initialized .slick-prev i {
@@ -10816,7 +10875,7 @@ html {
   outline: none;
 }
 .choose-section .slick-initialized .slick-next:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
 }
 .choose-section .slick-initialized .slick-next i {
@@ -10851,14 +10910,14 @@ html {
   opacity: 0;
 }
 .choose-section .slick-initialized .choose-section-dots .slick-active .dot {
-  background: #e15218;
+  background: #0000b5;
 }
 
 /*==========================================
     invest section
 ===========================================*/
 .invest-section {
-  background: url("../img/invest-bg.jpg") center center no-repeat;
+  /* background: url("../img/wave.png") center center no-repeat; */
   background-size: cover;
 }
 .invest-section .overlay {
@@ -10870,27 +10929,27 @@ html {
 }
 .invest-section .overlay .invest-text .invest-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.438rem;
 }
 .invest-section .overlay .invest-text .invest-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.313rem;
 }
 .invest-section .overlay .invest-text .invest-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -10920,7 +10979,7 @@ html {
           backface-visibility: hidden;
 }
 .invest-section .overlay .single-box .img-box .font-side img {
-  width: 50%;
+  width: 60%;
 }
 .invest-section .overlay .single-box .img-box .back-side {
   padding-top: 1.563rem;
@@ -10943,7 +11002,7 @@ html {
   padding: 0.625rem 0;
   font-size: 0.875rem;
   text-decoration: none;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 300;
   color: #1d193b;
   position: relative;
@@ -10957,9 +11016,9 @@ html {
   top: 0.125rem;
 }
 .invest-section .overlay .single-box .text-box h3 {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
-  color: #e15218;
+  color: #0000b5;
   font-size: 1.25rem;
   text-transform: uppercase;
   margin-top: 1.25rem;
@@ -11005,7 +11064,7 @@ html {
 }
 .advantage-section .overlay .advantage-text .advantage-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
@@ -11013,13 +11072,13 @@ html {
   margin-bottom: 0.75rem;
 }
 .advantage-section .overlay .advantage-text .advantage-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
@@ -11033,7 +11092,7 @@ html {
   color: #fb9516;
 }
 .advantage-section .overlay .single-box .text-box h2 {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   color: #ffffff;
   font-size: 1.5rem;
@@ -11045,34 +11104,34 @@ html {
     investment section
 ===========================================*/
 .investment-section {
-  background: url("../img/investment-bg.jpg") center center no-repeat;
+  background: url("../img/play-video.png") center center no-repeat;
   background-size: cover;
   padding: 7.063rem 0;
   margin-bottom: 9.375rem;
 }
 .investment-section .overlay .investment-text .investment-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.375rem;
 }
 .investment-section .overlay .investment-text .investment-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .investment-section .overlay .investment-text .investment-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11113,14 +11172,14 @@ html {
   font-size: 3.75rem;
 }
 .investment-section .overlay .investment-section-carousel .single-item .part-prize h3 {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 1.125rem;
   padding: 0.313rem 0;
 }
 .investment-section .overlay .investment-section-carousel .single-item .part-prize .min-max {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1rem;
   padding: 0.563rem 0;
 }
@@ -11131,7 +11190,7 @@ html {
   padding: 1.5rem 0 2.938rem 0;
 }
 .investment-section .overlay .investment-section-carousel .single-item .part-cart a {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   color: #ffffff;
@@ -11165,7 +11224,7 @@ html {
   outline: none;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .slick-prev:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .slick-prev i {
@@ -11188,7 +11247,7 @@ html {
   outline: none;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .slick-next:hover {
-  background-color: #e15218;
+  background-color: #0000b5;
   transition: 0.5s;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .slick-next i {
@@ -11222,7 +11281,7 @@ html {
   opacity: 0;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .investment-section-dots .slick-active .dot {
-  background: #e15218;
+  background: #0000b5;
 }
 
 /*==========================================
@@ -11242,7 +11301,7 @@ html {
   color: #ffffff;
 }
 .calculate-aria-second .calculate-left .form-group .amount {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1rem;
   color: #ffffff;
   text-transform: uppercase;
@@ -11278,7 +11337,7 @@ html {
 }
 .calculate-aria-second .calculate-left .form-group .input-dropdown .form-dropdown .form-btn-dropdown {
   position: relative;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 400;
   background-image: -webkit-linear-gradient(169deg, #e40015 0%, #750075 100%);
   color: #cdcbd9;
@@ -11309,17 +11368,17 @@ html {
 }
 .calculate-aria-second .calculate-right .text-box .counter {
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   font-weight: 600;
   font-size: 2.5rem;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
 }
 .calculate-aria-second .calculate-right .text-box h4 {
   color: #ffffff;
   font-size: 1rem;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: lighter;
   text-transform: uppercase;
 }
@@ -11338,27 +11397,27 @@ html {
 }
 .affiliate-section .overlay .affiliate-text .affiliate-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.375rem;
 }
 .affiliate-section .overlay .affiliate-text .affiliate-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .affiliate-section .overlay .affiliate-text .affiliate-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11368,7 +11427,7 @@ html {
   padding: 2.188rem 0 3.063rem 0;
 }
 .affiliate-section .part-cart a {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   color: #ffffff;
@@ -11405,7 +11464,7 @@ html {
 }
 .referral-section .referral-section-item .referral-section-right .referral-text .referral-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
@@ -11414,13 +11473,13 @@ html {
   text-transform: uppercase;
 }
 .referral-section .referral-section-item .referral-section-right .referral-text .referral-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
@@ -11428,7 +11487,7 @@ html {
   margin-bottom: 0.375rem;
 }
 .referral-section .referral-section-item .referral-section-right .referral-text .referral-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11453,7 +11512,7 @@ html {
   color: #e55f2c;
 }
 .referral-section .referral-section-item .referral-section-right .referral-single-item .text-box {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
 }
 .referral-section .referral-section-item .referral-section-right .referral-single-item .text-box .percentage {
   font-size: 3.125rem;
@@ -11465,7 +11524,7 @@ html {
 }
 .referral-section .referral-section-item .referral-section-right .referral-single-item .text-box .item-text {
   font-size: 1rem;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #484748;
   text-transform: uppercase;
 }
@@ -11481,27 +11540,27 @@ html {
 }
 .deposit-section .deposit-text .deposit-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.375rem;
 }
 .deposit-section .deposit-text .deposit-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .deposit-section .deposit-text .deposit-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11551,7 +11610,7 @@ html {
   padding: 0.625rem 0.125rem 0.813rem;
 }
 .deposit-section .payment-methods-outer .payment-methods .icon-gallery .icon-box .icon-title {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 0.75rem;
 }
 .deposit-section .payment-methods-outer .payment-methods .icon-gallery .icon-box:hover {
@@ -11563,7 +11622,7 @@ html {
   margin-top: 1.125rem;
 }
 .deposit-section .payment-methods-outer .payment-methods .link-box a {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 0.875rem;
   text-decoration: underline;
   font-weight: 700;
@@ -11604,14 +11663,14 @@ html {
   box-shadow: 0 0.313rem 0.313rem 0 rgba(228, 91, 45, 0.4);
 }
 .deposit-section .deposit-section-right .icon-text .icon-title {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   font-size: 1.75rem;
   text-transform: uppercase;
   color: #323639;
 }
 .deposit-section .deposit-section-right .icon-text .icon-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1.125rem;
   color: #484748;
 }
@@ -11700,27 +11759,27 @@ html {
 }
 .schedule-section .transaction-text .transaction-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.438rem;
 }
 .schedule-section .transaction-text .transaction-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .schedule-section .transaction-text .transaction-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11733,7 +11792,7 @@ html {
   margin-bottom: 2.813rem !important;
 }
 .schedule-section .transaction-bnt-outline .transaction-nav-item .transaction-nav-link {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 0.875rem;
   line-height: 1.286;
@@ -11762,7 +11821,7 @@ html {
 .schedule-section .transaction-table thead tr {
   border-top: 0.063rem solid #ccc8c8;
   border-bottom: 0.063rem solid #ccc8c8;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: bold;
   font-size: 0.875rem;
   text-transform: uppercase;
@@ -11778,7 +11837,7 @@ html {
   padding: 0 2.5rem;
 }
 .schedule-section .transaction-table tbody {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 1.125rem;
   color: #323639;
@@ -11814,23 +11873,23 @@ html {
 }
 .schedule-section .transaction-table tbody tr td i {
   font-size: 1.875rem;
-  color: #ff5500;
+  color: #2b2d30;
 }
 .schedule-section .transaction-table tbody tr:hover {
   background: #efe9e9;
 }
 .schedule-section .part-cart a {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   color: #ffffff;
   text-decoration: none;
   padding: 0.75rem 1.875rem;
   border-radius: 1.563rem;
-  background-image: linear-gradient(108deg, #7b19cb 0%, #3b26db 86%);
+  background-image: linear-gradient(4deg, #0000b5 0%, #2B2D33 100%);
   background-image: -ms-linear-gradient(108deg, #7b19cb 0%, #3b26db 86%);
   box-shadow: 0 0.625rem 0.938rem 0 rgba(59, 55, 188, 0.5);
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .schedule-section .part-cart a:hover {
@@ -11849,27 +11908,27 @@ html {
 }
 .download-section .download-text .download-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.438rem;
 }
 .download-section .download-text .download-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.188rem;
 }
 .download-section .download-text .download-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -11898,7 +11957,7 @@ html {
   color: #da0d2b;
 }
 .download-section .app-features .single-features .single-features-text {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 1.25rem;
   padding-top: 1.25rem;
@@ -11914,7 +11973,7 @@ html {
   background-image: -ms-linear-gradient(120deg, #3b26db 1%, #7b19cb 100%);
   box-shadow: 0 0.625rem 1.563rem 0 rgba(0, 0, 0, 0.3);
   color: #ffffff;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   text-align: left;
@@ -11926,7 +11985,7 @@ html {
   outline: 0;
 }
 .download-section .download-buttons .btn b {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 1rem;
 }
@@ -11990,26 +12049,26 @@ html {
 }
 .testimonial-section .testimonial-text .testimonial-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
 }
 .testimonial-section .testimonial-text .testimonial-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   padding-top: 0.25rem;
 }
 .testimonial-section .testimonial-text .testimonial-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -12100,14 +12159,14 @@ html {
   margin-left: -1.875rem;
 }
 .testimonial-section .testimonial-carousel .carousel-item .carousel-caption .client-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #484748;
   font-size: 1.5rem;
   border-bottom: 0.063rem solid #d40023;
   padding-bottom: 1.438rem;
 }
 .testimonial-section .testimonial-carousel .carousel-item .carousel-caption .client-name {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: 600;
   font-size: 1.75rem;
   text-transform: uppercase;
@@ -12118,7 +12177,7 @@ html {
   padding-top: 0.313rem;
 }
 .testimonial-section .testimonial-carousel .carousel-item .carousel-caption .client-date {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #484748;
   font-size: 1rem;
 }
@@ -12144,20 +12203,20 @@ html {
 }
 .questions-section .questions-text .questions-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.438rem;
 }
 .questions-section .questions-text .questions-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
@@ -12175,7 +12234,7 @@ html {
   color: #1d193b;
   border-radius: 1.563rem;
   text-align: center;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 1rem;
   text-transform: uppercase;
@@ -12195,7 +12254,7 @@ html {
   box-shadow: 0 0 1.25rem 0 rgba(72, 88, 238, 0.2);
 }
 .questions-section .questions-tab-content .questions-tab-pane .questions-accordion .questions-card .questions-card-header .questions-btn-link {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: 600;
   font-size: 1.313rem;
   color: #143250;
@@ -12220,7 +12279,7 @@ html {
   border-top: 0.063rem solid #d5d7da;
 }
 .questions-section .questions-tab-content .questions-tab-pane .questions-accordion .questions-card .questions-show .questions-card-body {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1.125rem;
   color: #2b4661;
   background-color: white;
@@ -12254,27 +12313,27 @@ html {
 }
 .signup-section .overlay .signup-text .signup-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   color: #ffffff;
 }
 .signup-section .overlay .signup-text .signup-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .signup-section .overlay .signup-text .signup-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
@@ -12283,7 +12342,7 @@ html {
 }
 .signup-section .overlay .signup-right-text a {
   position: relative;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1rem;
   text-transform: uppercase;
   text-decoration: none;
@@ -12318,31 +12377,45 @@ html {
 }
 .contact-us-section .contact-us-text .contact-us-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
   margin-bottom: 0.375rem;
 }
 .contact-us-section .contact-us-text .contact-us-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
   margin-bottom: 0.25rem;
 }
 .contact-us-section .contact-us-text .contact-us-title-describe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   color: #3f3c57;
   line-height: 1.556;
   font-size: 1.125rem;
   margin-bottom: 3.438rem;
+}
+.contact-us-section .contact-us-button a {
+   font-family: "Viga", sans-serif;
+   text-transform: uppercase;
+   font-size: 0.875rem;
+   color: #ffffff;
+   text-decoration: none;
+   padding: 0.625rem 1.25rem;
+   border-radius: 1.563rem;
+   background-image: linear-gradient(4deg, #0000b5 0%, #2B2D33 100%);
+   background-image: -ms-linear-gradient(90deg, #3b26db 1%, #7b19cb 100%);
+   box-shadow: 0 0.313rem 0.313rem 0 rgba(59, 38, 219, 0.4);
+   border: 0.125rem solid #fffce8;
+   transition: all 0.3s ease-in;
 }
 .contact-us-section .contact-img img {
   width: 90%;
@@ -12354,7 +12427,7 @@ html {
   padding: 2.125rem 1.875rem;
 }
 .contact-us-section .contact-form .contact-head {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: bold;
   font-size: 1.5rem;
   color: #1d193b;
@@ -12393,21 +12466,22 @@ html {
   padding: 0.875rem 2.063rem;
   margin-top: 1.25rem;
   color: white;
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-weight: bold;
   font-size: 0.875rem;
   text-transform: uppercase;
   border-radius: 1.563rem;
-  background-image: linear-gradient(4deg, #ae0ee9 0%, #2e19a7 100%);
-  background-image: -ms-linear-gradient(4deg, #ae0ee9 0%, #2e19a7 100%);
+  background-image: linear-gradient(4deg, #0000b5 0%, #2B2D33 100%);
+  background-image: -ms-linear-gradient(4deg, #0000b5 0%, #2B2D33 100%);
   box-shadow: 0 0.313rem 0.938rem 0 rgba(21, 10, 82, 0.5);
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .contact-us-section .contact-form .contact-btn:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
+  color: black;
 }
 .contact-us-section .contact-form .contact-form-aqua {
   margin-bottom: -1.188rem;
@@ -12478,7 +12552,7 @@ html {
           animation: move-wave 15s linear infinite;
 }
 .footer-section .overlay .footer-content {
-  background-image: linear-gradient(to top, #7b19cb, #6f1ccf, #621fd3, #5123d7, #3b26db);
+  background-image: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   padding-top: 8rem;
 }
 .footer-section .overlay .footer-content .social-icon {
@@ -12515,7 +12589,7 @@ html {
 }
 .footer-section .overlay .footer-content .footer-text .footer-title {
   font-size: 1.5rem;
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
@@ -12523,19 +12597,19 @@ html {
   color: #fafafe;
 }
 .footer-section .overlay .footer-content .footer-text .footer-subtitle {
-  font-family: "Raleway";
+  font-family: "Black Ops One", cursive;
   font-weight: bold;
   font-size: 3.125rem;
   text-transform: uppercase;
   line-height: 1.4;
   background: #880065;
-  background: linear-gradient(90deg, #880065 0%, #d70021 100%);
+  background: linear-gradient(90deg, #0000b5 0%, #2b2d30 100%);
   color: transparent;
   -webkit-background-clip: text;
   display: inline-block;
 }
 .footer-section .overlay .footer-content .subscribe {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 1rem;
   border: 0.063rem solid #a680e5;
   border-radius: 3.125rem;
@@ -12587,7 +12661,7 @@ html {
   border: 0.125rem solid transparent;
 }
 .footer-section .overlay .footer-content .footer-bottom {
-  font-family: "Open Sans";
+  font-family: "Viga", sans-serif;
   font-size: 0.875rem;
   font-weight: 600;
   border-top: 0.063rem solid #a798ed;
@@ -12598,7 +12672,7 @@ html {
 }
 .footer-section .overlay .footer-content .footer-bottom .footer-bottom-left a {
   text-decoration: none;
-  color: #ff5500;
+  color: #CC2936;
 }
 .footer-section .overlay .footer-content .footer-bottom .footer-bottom-right ul {
   display: inline-block;
