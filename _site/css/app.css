@@ -1638,6 +1638,7 @@ pre code {
   width: 100%;
   margin-bottom: 1rem;
   color: #212529;
+  /* display: block !important; */
 }
 .table th,
 .table td {
@@ -1682,7 +1683,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #212529;
+  color: #2b2d30;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -10194,7 +10195,7 @@ html {
   font-weight: 600;
 }
 .reunir-navbar .nav-main .navbar-nav .nav-item .nav-link:hover {
-  color: #ff5500;
+  color: #fffce8;
   transition: 0.3s;
 }
 .reunir-navbar .right-side-box .join-btn {
@@ -10203,13 +10204,13 @@ html {
   padding: 0.938rem 3.188rem;
   border-radius: 1.563rem;
   color: #fefefe;
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   background-image: -ms-linear-gradient(0deg, transparent 0%, transparent 100%);
   transition: all 0.3s ease-in;
 }
 .reunir-navbar .right-side-box .join-btn:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 .reunir-navbar.sticky {
@@ -10291,7 +10292,7 @@ html {
   color: #ffffff;
 }
 .banner-section .overlay .total-slide .banner-text h1 span {
-  color: #ff5500;
+  color: #fffce8;
   padding: 0;
 }
 .banner-section .overlay .total-slide .banner-text .font-light {
@@ -10318,13 +10319,13 @@ html {
   background-image: -webkit-linear-gradient(169deg, #e40015 0%, #750075 100%);
   padding: 0.938rem 2.25rem;
   border-radius: 1.563rem;
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   background-image: -ms-linear-gradient(0deg, transparent 0%, transparent 100%);
   transition: all 0.3s ease-in;
 }
 .banner-section .overlay .total-slide .get-start a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 .banner-section.slick-initialized .slick-prev {
@@ -10412,7 +10413,7 @@ html {
   height: 61%;
 }
 .statics-section .single-statics .icon-box i {
-  color: #ff5500;
+  color: #fffce8;
   font-size: 2.5rem;
 }
 .statics-section .single-statics .text-box {
@@ -10669,12 +10670,12 @@ html {
   text-decoration: none;
   font-family: "Viga", sans-serif;
   font-weight: bold;
-  color: #ff5500;
+  color: #fffce8;
   position: relative;
   margin-left: -2.4rem;
 }
 .about-section .about-left .about-box .hover-box a i {
-  color: #ff5500;
+  color: #fffce8;
   font-size: 1.875rem;
   margin-left: 0.625rem;
   position: absolute;
@@ -11200,12 +11201,12 @@ Image Slider Section
   background-image: linear-gradient(90deg, #3b26db 1%, #7b19cb 100%);
   background-image: -ms-linear-gradient(90deg, #3b26db 1%, #7b19cb 100%);
   box-shadow: 0 0.313rem 0.313rem 0 rgba(59, 38, 219, 0.4);
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .investment-section .overlay .investment-section-carousel .single-item .part-cart a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 .investment-section .overlay .investment-section-carousel.slick-initialized .slick-prev {
@@ -11437,12 +11438,12 @@ Image Slider Section
   background-image: linear-gradient(169deg, #e40015 0%, #750075 100%);
   background-image: -ms-linear-gradient(169deg, #e40015 0%, #750075 100%);
   box-shadow: 0 0.625rem 0.938rem 0 rgba(59, 55, 188, 0.5);
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .affiliate-section .part-cart a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 
@@ -11468,7 +11469,7 @@ Image Slider Section
   color: #1d193b;
   font-weight: 600;
   line-height: 1.167;
-  color: #ff5500;
+  color: #fffce8;
   margin-bottom: -0.25rem;
   text-transform: uppercase;
 }
@@ -11786,7 +11787,7 @@ Image Slider Section
   margin-bottom: 3.25rem;
 }
 .schedule-section .transaction-bnt-outline {
-  border: 0.063rem solid #ff5500;
+  border: 0.063rem solid #fffce8;
   border-radius: 3.125rem;
   padding: 0.75rem 0;
   margin-bottom: 2.813rem !important;
@@ -11799,7 +11800,7 @@ Image Slider Section
   color: #ffffff;
   border: none;
   text-decoration: none;
-  background-color: #ff5500;
+  background-color: #fffce8;
   padding: 0.5rem 1.313rem;
   margin: 0 0.625rem;
   border-radius: 1.875rem;
@@ -11876,7 +11877,7 @@ Image Slider Section
   color: #2b2d30;
 }
 .schedule-section .transaction-table tbody tr:hover {
-  background: #efe9e9;
+  background: #d4ebf2;
 }
 .schedule-section .part-cart a {
   font-family: "Viga", sans-serif;
@@ -11894,7 +11895,7 @@ Image Slider Section
 }
 .schedule-section .part-cart a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 
@@ -12352,7 +12353,7 @@ Image Slider Section
   background-image: linear-gradient(90deg, #e45b2d 0%, #f07921 33%, #fc9715 100%);
   background-image: -ms-linear-gradient(90deg, #e45b2d 0%, #f07921 33%, #fc9715 100%);
   box-shadow: 0 0.313rem 0.313rem 0 rgba(228, 91, 45, 0.4);
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .signup-section .overlay .signup-right-text a i {
@@ -12364,7 +12365,7 @@ Image Slider Section
 }
 .signup-section .overlay .signup-right-text a:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 
@@ -12652,12 +12653,12 @@ Image Slider Section
   box-shadow: 0 0.313rem 0.313rem 0 rgba(1, 132, 255, 0.4);
   float: right;
   margin: 0.5rem 0.625rem;
-  border: 0.125rem solid #ff5500;
+  border: 0.125rem solid #fffce8;
   transition: all 0.3s ease-in;
 }
 .footer-section .overlay .footer-content .subscribe .subscribe-btn:hover {
   background-image: -webkit-linear-gradient(0deg, transparent 0%, transparent 100%);
-  background-color: #ff5500;
+  background-color: #fffce8;
   border: 0.125rem solid transparent;
 }
 .footer-section .overlay .footer-content .footer-bottom {
@@ -12856,13 +12857,13 @@ Image Slider Section
   }
 
   .reunir-navbar {
-    background: #0000b5;
+    background: #212529;
   }
   .reunir-navbar i {
     color: #ffffff;
   }
   .reunir-navbar .navbar-toggler {
-    margin-right: 11.25rem;
+    /* margin-right: 11.25rem; */
   }
   .reunir-navbar .right-side-box {
     position: absolute;
@@ -13099,13 +13100,13 @@ Image Slider Section
   }
 
   .reunir-navbar {
-    background: #1c1646;
+    background: #212529;
   }
   .reunir-navbar i {
-    color: #ff5500;
+    color: #fffce8;
   }
   .reunir-navbar .navbar-toggler {
-    margin-right: 11.25rem;
+    /* margin-right: 11.25rem; */
   }
   .reunir-navbar .right-side-box {
     position: absolute;
@@ -13342,13 +13343,13 @@ Image Slider Section
   }
 
   .reunir-navbar {
-    background: #1c1646;
+    background: 212529;
   }
   .reunir-navbar i {
-    color: #ff5500;
+    color: #fffce8;
   }
   .reunir-navbar .navbar-toggler {
-    margin-right: 11.25rem;
+    /* margin-right: 11.25rem; */
   }
   .reunir-navbar .right-side-box {
     position: absolute;
@@ -13613,10 +13614,10 @@ Image Slider Section
   }
 
   .reunir-navbar {
-    background: #1c1646;
+    background: #212529;
   }
   .reunir-navbar i {
-    color: #ff5500;
+    color: #fffce8;
   }
   .reunir-navbar .navbar-toggler {
     margin-right: 0;
@@ -13753,7 +13754,7 @@ Image Slider Section
     font-size: 1.25rem;
   }
   .invest-section .overlay .invest-text .invest-subtitle {
-    font-size: 2.25rem;
+    font-size: 2rem;
   }
   .invest-section .overlay .invest-text .invest-title-describe {
     font-size: 1rem;
